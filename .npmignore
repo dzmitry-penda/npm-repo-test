@@ -1,3 +1,4 @@
 /*
 .*
-!app/dist/include
+app/dist/
+!app/dist/include/
