@@ -1,0 +1,19 @@
+{
+  "name": "npm-repo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzmitry-penda/npm-repo-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzmitry-penda/npm-repo-test/issues"
+  },
+  "homepage": "https://github.com/dzmitry-penda/npm-repo-test#readme"
+}
