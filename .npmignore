@@ -1,4 +1,5 @@
 /*
 .*
-app/dist/
+app/dist/*
+app/dist/.*
 !app/dist/include/
